@@ -1,0 +1,9 @@
+
+/*a szélességet és a magasságnál ha van display akkor inline-block kell. Az RGB megadja a color paramétereit. 
+Max 255 lehet az egyes színek maximális értéke. Ha RGBA akkor a 4-ik paraméter az átláthatóság értéke*/
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 230, 0.170);
+}
